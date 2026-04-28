@@ -11,7 +11,7 @@ This vignette goes through a full RNA-seq pipeline - from loading raw count data
 | File | What it is |
 |------|-----------|
 | `RNA-seq-Vignette_DESeq2-Analysis-of-the-Airway-Dataset.Rmd` | Source R Markdown file |
-| `RNA-seq-Vignette_DESeq2-Analysis-of-the-Airway-Dataset.html` | Knitted HTML vignette — open this in a browser |
+| `RNA-seq-Vignette_DESeq2-Analysis-of-the-Airway-Dataset.html` | Knitted HTML vignette - open this in a browser |
 | `app.R` | Interactive Shiny app to explore results |
 
 ## View the vignette
